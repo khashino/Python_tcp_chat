@@ -12,19 +12,21 @@ it contains 3 file
 ```
 python server.py
 ```
-
+![alt text](https://github.com/khashino/Python_tcp_chat/blob/main/images/server.PNG?raw=true)
 
 ## 2-clientCLI.py
-
+Command line client
 ```
 python clientCLI.py
 ```
-
+![alt text](https://github.com/khashino/Python_tcp_chat/blob/main/images/clientCLI.PNG?raw=true)
 
 ## 3-clientGUI.py
-
+Graphic user interface client
 ```
-python clientCLI.py
+python clientGUI.py
 ```
+![alt text](https://github.com/khashino/Python_tcp_chat/blob/main/images/clientGUI_1.PNG?raw=true)
 
+![alt text](https://github.com/khashino/Python_tcp_chat/blob/main/images/clientGUI_2.PNG?raw=true)
 
